@@ -5,7 +5,6 @@ Programación en Java/J2EE. Curso Avanzado
 
 Curso Avanzado de programación en Java orientado a las futuras necesidades de software a implementar por el equipo técnico del Dpto. de Desarrollo de Soluciones del CEMi.
 
-
 *Tipo:* Presencial
 
 = Contenidos =
@@ -88,13 +87,7 @@ Curso Avanzado de programación en Java orientado a las futuras necesidades de s
  # Buenas prácticas [`teresa`]
  # Ejemplo práctico (15h) [`teresa`, `carlos`]
 
-*Destinatarios:* Equipo Técnico del Dpto. de Desarrollo de Soluciones del CEMi
-
 *Duración aproximada:* 125h
-
-*Planificación:* Del 27-10-09 al 01-12-09. De 9.00h a 14.00h de lunes a viernes
-
-*Lugar de impartición:* Sala de formación del CEMi
 
 *Requisitos:* Conocimientos básicos de programación en java
 
